@@ -1,0 +1,4 @@
+Neural-Covenant Protocol (NCP)
+Version: 1.0.0
+Status: Canonical Public Release
+Date: February 2026
