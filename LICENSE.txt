@@ -1,0 +1,18 @@
+Neural-Covenant Protocol (NCP)
+
+Copyright (c) 2026 Mohammadreza Parivar
+
+This repository contains the canonical public disclosure of the Neural-Covenant Protocol (NCP).
+All rights are reserved by the author.
+
+Permission is hereby granted to read, reference, and cite this work for academic, research,
+and governance purposes, provided that proper attribution is given to the author.
+
+Commercial use, derivative works, implementation in production systems, or incorporation
+into proprietary or open-source software requires explicit written permission from
+Mohammadreza Parivar.
+
+This license does not grant any patent rights, implementation rights, or enforcement rights
+beyond public disclosure and citation.
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
