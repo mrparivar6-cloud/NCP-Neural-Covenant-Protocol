@@ -1,37 +1,30 @@
-# NCP-Neural-Covenant-Protocol
-Canonical public disclosure of the Neural-Covenant Protocol (NCP)
+# NCP‑X
 
+NCP‑X is the canonical identifier of a sovereignty‑preserving AI control protocol
+built on the Control Logic Core – Architecture (CLC‑A).
 
-# Neural-Covenant Protocol (NCP)
+The system was first publicly disclosed in February 2026 under the descriptive
+identifier “Neural‑Covenant Protocol (NCP)”.
 
-Status: Canonical Public Disclosure  
-Author: Mohammadreza Parivar  
-Date: February 2026  
+To ensure long‑term legal neutrality, trademark safety, and global reference clarity,
+the canonical system identifier is designated as NCP‑X.
 
----
-
-## Overview
-
-The Neural-Covenant Protocol (NCP) is a sovereign execution-layer governance
-protocol designed to enforce mandatory control over AI-generated outputs
-through cryptographic pre-execution validation.
-
-NCP establishes a binding covenant between AI systems and sovereign authority:
-no AI output may be executed unless it is formally authorized, cryptographically
-signed, and validated within an approved control context.
+This designation does not alter the underlying architecture, formal claims,
+or intellectual ownership, all of which remain defined by the CLC‑A framework.
 
 ---
 
 ## Canonical Reference
 
-The file `NCP_CANONICAL.txt` is the sole authoritative definition of NCP.
+The Control Logic Core – Architecture (CLC‑A) documents constitute the
+authoritative technical and architectural definition of the system.
 
-Any other format (PDF, DOCX, slides, summaries) is considered derived and
-non-authoritative.
+All prior references to “Neural‑Covenant Protocol (NCP)” are preserved strictly
+as historical identifiers of the first public disclosure.
 
 ---
 
 ## Legal Notice
 
 This repository constitutes a public canonical disclosure asserting intellectual
-primacy as of the stated date.
+primacy as of February 2026.
